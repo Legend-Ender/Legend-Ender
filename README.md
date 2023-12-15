@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Legend-Ender
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Discord
+- 👀 I’m interested in: Game Development
+- 🌱 I’m currently learning: Javascript
+- 💞️ I’m looking to collaborate on: Nothing
+- 📫 How to reach me: Discord
 
 <!---
 Legend-Ender/Legend-Ender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
